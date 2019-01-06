@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "python-env\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": ["python-env\\Lib\\site-packages"],
+    // "python.linting.enabled": false,
+    // "python.linting.pylintPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\Scripts\\pylint.exe"
+    
+}
