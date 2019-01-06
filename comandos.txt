@@ -1,0 +1,5 @@
+## para actualizar requirements.txt
+pip freeze > requirements.txt
+
+## para instalar desde un archivo
+pip install -r requirements.txt
